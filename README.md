@@ -30,5 +30,5 @@
 
 <h2 align="left">❤️ Let's get connected:</h2>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Mohamed%20Fathy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamedfathy)](https://www.linkedin.com/in/mohamedfathy)  
+[![LinkedIn Badge](https://img.shields.io/badge/-Mohamed%20Fathy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-abofathy-ba2936395/)](https://www.linkedin.com/in/mohamed-abofathy-ba2936395/)
 [![GitHub Badge](https://img.shields.io/badge/-mohamed--fathy-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/mohamed-fathy)](https://github.com/mohamed-fathy)
