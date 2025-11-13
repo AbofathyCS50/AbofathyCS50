@@ -34,5 +34,4 @@
 <h2 align="left">❤️ Let's get connected:</h2>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Mohamed%20Fathy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-fathy-ba2936395/)](https://www.linkedin.com/in/mohamed-fathy-ba2936395/)
-[![GitHub Badge](https://img.shields.io/badge/-mohamed--fathy-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/mohamed-fathy)](https://github.com/mohamed-fathy)
-[![Gmail Badge](https://img.shields.io/badge/-mohamedabofathy490%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedabofathy490@gmail.com)](mailto:mohamedabofathy490@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-MoFathyDevObs-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/MoFathyDevObs)](https://github.com/MoFathyDevObs)[![Gmail Badge](https://img.shields.io/badge/-mohamedabofathy490%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedabofathy490@gmail.com)](mailto:mohamedabofathy490@gmail.com)
